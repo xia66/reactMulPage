@@ -1,0 +1,21 @@
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+body {width:100%;font: normal 100% Helvetica, Arial, sans-serif; }
+html,body{
+	height:100%;
+    font-size: 12px;
+	/*使用max-width限制最大宽度，这样就不会太难看*/
+}
+body{
+	font-family:PingFangSC-Medium;
+    background-color: #f1f1f1;
+    background: url('./images/timg.jpg') no-repeat;
+}

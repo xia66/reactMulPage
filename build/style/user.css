@@ -1,0 +1,60 @@
+#user {
+  padding: 2.083333rem 1.25rem;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.header {
+  width: 100%;
+}
+
+.title {
+  margin-top: 4.166667rem;
+  font-size: 1.25rem;
+}
+
+.query {
+  margin-top: 0.833333rem;
+  width: 100%;
+  text-align: center;
+}
+
+.query .queryButton {
+  height: 2.083333rem;
+  font-size: 0.833333rem;
+  line-height: 2.083333rem;
+  width: 6.666667rem;
+}
+
+.queryResult {
+  margin-top: 0.833333rem;
+}
+
+.extendsResult {
+  width: 100%;
+}
+
+.extendsResult .title {
+  margin-top: 0.833333rem;
+  text-align: left;
+  font-size: 1rem;
+}
+
+.extendsResult .content table {
+  width: 100%;
+}
+
+.extendsResult .content table th {
+  padding-top: 0.666667rem;
+}
+
+.extendsResult .content table td {
+  text-align: center;
+  padding-top: 0.666667rem;
+}
+
+/*# sourceMappingURL=user.css.map*/

@@ -1,0 +1,46 @@
+#home {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 0 0.833333rem;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+#home .title {
+  margin-top: 4.166667rem;
+  font-size: 1.25rem;
+}
+
+#home .package {
+  margin-top: 4.166667rem;
+}
+
+#home .remind {
+  font-size: 0.416667rem;
+  color: #444;
+}
+
+#home > div {
+  width: 100%;
+  text-align: center;
+}
+
+#home .bind {
+  margin-top: 8.333333rem;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  line-height: 5rem;
+}
+
+#home .img {
+  position: absolute;
+  bottom: 4.166667rem;
+  width: 50%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+/*# sourceMappingURL=test.css.map*/
